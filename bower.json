@@ -1,0 +1,33 @@
+{
+  "name": "ng-media-events",
+  "description": "Angular directives for HTML5 audio/video media events",
+  "license": "MIT",
+  "homepage": "https://github.com/amercier/ng-media-events",
+  "authors": [{
+    "name": "Alex Mercier",
+    "email": "pro.alexandre.mercier@gmail.com",
+    "homepage": "http://amercier.com"
+  }],
+  "main": [
+    "src/ng-media-events.js"
+  ],
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "angular",
+    "ng",
+    "directive",
+    "html5",
+    "audio",
+    "video",
+    "media",
+    "events",
+    "source",
+    "codec"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
