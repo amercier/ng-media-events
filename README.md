@@ -59,3 +59,22 @@ Usage
 | Argument | Type | Details |
 |----------|------|---------|
 | ngAbort<br>ngCanplay<br>ngCanplaythrough<br>ngDurationchange<br>ngEmptied<br>ngEnded<br>ngError<br>ngLoadeddata<br>ngLoadedmetadata<br>ngLoadstart<br>ngPause<br>ngPlay<br>ngPlaying<br>ngProgress<br>ngRatechange<br>ngResize<br>ngSeeked<br>ngSeeking<br>ngStalled<br>ngSuspend<br>ngTimeupdate<br>ngVolumechange<br>ngWaiting | Expression | [Expression](https://docs.angularjs.org/guide/expression) to evaluate upon click. ([Event object is available as $event](https://docs.angularjs.org/guide/expression#-event-)) |
+
+
+License
+-------
+
+This project is released under [MIT License](LICENSE) license. If this license
+does not fit your requirement for whatever reason, but you would be interested
+in using the work (as defined below) under another license, please contact any
+of the [contributors](../../graphs/contributors).
+
+
+Contributing
+------------
+
+Contributions (issues ♥, pull requests ♥♥♥) are more than welcome! Feel free to
+clone, fork, modify, extend, etc, as long as you respect the
+[license terms](LICENSE).
+
+See [contributing intructions](CONTRIBUTING.md) for details.
