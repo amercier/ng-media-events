@@ -1,6 +1,6 @@
 {
   "name": "ng-media-events",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Angular directives for HTML5 audio/video media events",
   "license": "MIT",
   "repository": "amercier/ng-media-events",
