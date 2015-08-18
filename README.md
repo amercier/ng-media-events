@@ -1,15 +1,15 @@
-ng-media-events
-===============
+angular-media-events
+====================
 
 Angular directives for [HTML5 audio/video media events](http://www.w3.org/TR/html5/embedded-content-0.html#mediaevents).
 
-[![Latest Stable Version](https://img.shields.io/npm/v/ng-media-events.svg)](https://www.npmjs.com/package/ng-media-events)
+[![Latest Stable Version](https://img.shields.io/npm/v/angular-media-events.svg)](https://www.npmjs.com/package/angular-media-events)
 
 
 Description
 -----------
 
-`ng-media-events` is an Angular 1.x module that adds directives that allow binding [HTML5 media events](http://www.w3.org/TR/html5/embedded-content-0.html#mediaevents)
+`angular-media-events` is an Angular 1.x module that adds directives that allow binding [HTML5 media events](http://www.w3.org/TR/html5/embedded-content-0.html#mediaevents)
 to Angular [scope](https://docs.angularjs.org/guide/scope) methods.
 
 
@@ -18,11 +18,11 @@ Installation
 
 Using Bower:
 
-    bower install ng-media-events --save
+    bower install angular-media-events --save
 
 or, using NPM:
 
-    npm install ng-media-events --save
+    npm install angular-media-events --save
 
 
 Usage

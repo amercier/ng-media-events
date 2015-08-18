@@ -1,15 +1,15 @@
 {
-  "name": "ng-media-events",
+  "name": "angular-media-events",
   "description": "Angular directives for HTML5 audio/video media events",
   "license": "MIT",
-  "homepage": "https://github.com/amercier/ng-media-events",
+  "homepage": "https://github.com/amercier/angular-media-events",
   "authors": [{
     "name": "Alex Mercier",
     "email": "pro.alexandre.mercier@gmail.com",
     "homepage": "http://amercier.com"
   }],
   "main": [
-    "src/ng-media-events.js"
+    "src/angular-media-events.js"
   ],
   "ignore": [
     "package.json"

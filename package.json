@@ -1,9 +1,9 @@
 {
-  "name": "ng-media-events",
+  "name": "angular-media-events",
   "version": "1.0.0",
   "description": "Angular directives for HTML5 audio/video media events",
   "license": "MIT",
-  "repository": "amercier/ng-media-events",
+  "repository": "amercier/angular-media-events",
   "author": {
     "name": "Alex Mercier",
     "email": "pro.alexandre.mercier@gmail.com",
@@ -12,7 +12,7 @@
   "scripts": {
   },
   "files": [
-    "src/ng-media-events.js"
+    "src/angular-media-events.js"
   ],
   "keywords": [
     "angular",
