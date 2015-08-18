@@ -3,6 +3,8 @@ ng-media-events
 
 Angular directives for [HTML5 audio/video media events](http://www.w3.org/TR/html5/embedded-content-0.html#mediaevents).
 
+[![Latest Stable Version](https://img.shields.io/npm/v/ng-media-events.svg)](https://www.npmjs.com/package/ng-media-events)
+
 
 Description
 -----------
