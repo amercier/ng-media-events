@@ -28,6 +28,16 @@ or, using NPM:
 Usage
 -----
 
+1. Add `ngMedia` to your app dependencies (typically, `app.js`):
+
+```js
+angular
+  .module('myApp', [..., 'ngMedia'])
+  .config(/* ... */)
+```
+
+2. Then, in your views:
+
 ```html
 <ANY
   ng-abort="expression"
