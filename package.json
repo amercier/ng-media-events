@@ -14,6 +14,7 @@
   "files": [
     "src/ng-media-events.js"
   ],
+  "main": "src/ng-media-events.js",
   "keywords": [
     "angular",
     "ng",
